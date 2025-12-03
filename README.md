@@ -1,17 +1,3 @@
-Perfect — this is enough. I’ll generate a **professional + developer-aesthetic** GitHub Profile README for you, with:
-
-✔ clean structure
-✔ strong AI-engineer positioning
-✔ general enough to fit any future job
-✔ includes GitHub stats
-✔ placeholders for your contact links
-✔ highlights your projects
-✔ no unnecessary personal or temporary things
-
-Here it is — **copy & paste into your GitHub profile README repo (`Hasan-Al-Dhubaibi/Hasan-Al-Dhubaibi`)**:
-
----
-
 # 👋 Hi, I'm **Hasan Al-Dhubaibi**
 
 ### **AI Engineer**

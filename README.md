@@ -1,10 +1,100 @@
-- 👋 Hi, I’m @Dr-Devil1
-- 👀 interested in Drawing, volleyball, AI, and everything about programming
-- 🌱 currently learning AI Engineering
-- 💞️ looking to collaborate and learn everything possible about programming, software developing, robotics, etc. 
-- 📫 Can be reached through my e-mail 4.dr.h.aldhubaibi1.2@gmail.com 
+Perfect — this is enough. I’ll generate a **professional + developer-aesthetic** GitHub Profile README for you, with:
 
-<!---
-Dr-Devil1/Dr-Devil1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+✔ clean structure
+✔ strong AI-engineer positioning
+✔ general enough to fit any future job
+✔ includes GitHub stats
+✔ placeholders for your contact links
+✔ highlights your projects
+✔ no unnecessary personal or temporary things
+
+Here it is — **copy & paste into your GitHub profile README repo (`Hasan-Al-Dhubaibi/Hasan-Al-Dhubaibi`)**:
+
+---
+
+# 👋 Hi, I'm **Hasan Al-Dhubaibi**
+
+### **AI Engineer**
+
+I’m an AI Engineer passionate about building intelligent systems that solve real-world problems.
+I enjoy working across the full AI spectrum — from model development to applications — and I’m constantly improving my engineering skills in both software and machine intelligence.
+
+---
+
+## 🚀 **Skills & Technologies**
+
+### **AI & Machine Learning**
+
+* Deep Learning, Computer Vision, NLP, Reinforcement Learning
+* PyTorch, TensorFlow
+* Model training, optimization, deployment
+
+### **Software Engineering**
+
+* **Python**, **C**, **C++**, JavaScript (React)
+* FastAPI, REST APIs
+* Clean design principles & scalable application structure
+
+### **Tools & Platforms**
+
+* Git & GitHub
+* Docker
+* Jupyter, NumPy, Pandas, OpenCV
+
+---
+
+## 🧠 **What I Aim For**
+
+I’m open to working in **any AI or software engineering role** — from ML engineering to AI-backed applications, research-driven development, or production-level systems.
+
+My goal:
+➡️ Build impactful AI solutions
+➡️ Learn continuously
+➡️ Grow into high-level engineering roles where AI meets real-world products
+
+---
+
+## 📂 **Featured Projects**
+
+### 🔸 **Intelligent Traffic Analysis & Violation Detection System**
+
+AI-based system to analyze traffic behavior and detect rule violations in real time.
+
+### 🔸 **Alzheimer’s Detection Using CCG/EEG Signals**
+
+Deep learning approach for early detection of cognitive decline from physiological signals.
+
+### 🔸 **Tourism Recommendation & Prediction System** *(in progress)*
+
+A personalized recommendation engine for tourism behavior prediction.
+
+---
+
+## 📊 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hasan-Al-Dhubaibi&show_icons=true&theme=github_dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasan-Al-Dhubaibi&layout=compact&theme=github_dark&hide_border=true" height="165" />
+</p>
+
+---
+
+## 📫 **Contact**
+
+* **Email:** [your-email@example.com](mailto:your-email@example.com)
+* **LinkedIn:** your-linkedin
+* **Portfolio:** your-portfolio
+
+*(Replace these with your own details.)*
+
+---
+
+If you want, I can also:
+
+✅ Add interactive badges
+✅ Add a tech stack graphic
+✅ Add an AI-themed banner
+✅ Add emojis/icons for your skills
+✅ Make a lighter version or a dark-mode only version
+
+Just tell me if you'd like upgrades or a different style!

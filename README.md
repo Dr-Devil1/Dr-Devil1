@@ -68,6 +68,19 @@ Deep learning approach for early detection of cognitive decline from physiologic
 
 A personalized recommendation engine for tourism behavior prediction.
 
+### 🔸 Autonomous Drone for Teknofest (Search, Rescue & Mine Detection)
+
+A fully autonomous drone designed for search-and-rescue and hazard detection missions.
+Features include:
+
+Obstacle avoidance
+
+Navigation and localization
+
+Target detection using computer vision
+
+Mission automation for rescue and mine-detection scenario
+
 ---
 
 ## 📊 **GitHub Stats**
@@ -75,26 +88,12 @@ A personalized recommendation engine for tourism behavior prediction.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hasan-Al-Dhubaibi&show_icons=true&theme=github_dark&hide_border=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasan-Al-Dhubaibi&layout=compact&theme=github_dark&hide_border=true" height="165" />
-</p>
+</p>**
 
 ---
 
 ## 📫 **Contact**
 
-* **Email:** [your-email@example.com](mailto:your-email@example.com)
-* **LinkedIn:** your-linkedin
-* **Portfolio:** your-portfolio
+* **Email:** 4.dr.h.aldhubaibi1.2@gmail.com
+* **LinkedIn:** https://www.linkedin.com/in/hasan-al-dhubaibi-374486271?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
-*(Replace these with your own details.)*
-
----
-
-If you want, I can also:
-
-✅ Add interactive badges
-✅ Add a tech stack graphic
-✅ Add an AI-themed banner
-✅ Add emojis/icons for your skills
-✅ Make a lighter version or a dark-mode only version
-
-Just tell me if you'd like upgrades or a different style!

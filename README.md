@@ -40,7 +40,7 @@ My goal:
 
 ---
 
-## 📂 **Featured Projects**
+## 📂 **Featured Projects** (Will be added to github soon)
 
 ### 🔸 **Intelligent Traffic Analysis & Violation Detection System**
 

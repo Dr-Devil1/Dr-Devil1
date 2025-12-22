@@ -17,7 +17,7 @@ I enjoy working across the full AI spectrum — from model development to applic
 
 ### **Software Engineering**
 
-* **Python**, **C**, **C++**, JavaScript (React)
+* **Python**, **C**, **C++**
 * FastAPI, REST APIs
 * Clean design principles & scalable application structure
 

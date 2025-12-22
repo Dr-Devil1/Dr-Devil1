@@ -7,7 +7,7 @@ I enjoy working across the full AI spectrum — from model development to applic
 
 ---
 
-## 🚀 **Skills & Technologies**
+## **Skills & Technologies**
 
 ### **AI & Machine Learning**
 
@@ -29,7 +29,7 @@ I enjoy working across the full AI spectrum — from model development to applic
 
 ---
 
-## 🧠 **What I Aim For**
+## **What I Aim For**
 
 I’m open to working in **any AI or software engineering role** — from ML engineering to AI-backed applications, research-driven development, or production-level systems.
 
@@ -40,7 +40,7 @@ My goal:
 
 ---
 
-## 📂 **Featured Projects** (Will be added to github soon)
+## **Featured Projects** (Will be added to github soon)
 
 ### 🔸 **Intelligent Traffic Analysis & Violation Detection System**
 

@@ -77,10 +77,6 @@ Mission automation for rescue and mine-detection scenario
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasan-aldhubaibi&theme=github-compact&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasan-aldhubaibi&theme=github-compact&hide_border=true" />
-</p>
-
 ---
 
 ## 📫 **Contact**

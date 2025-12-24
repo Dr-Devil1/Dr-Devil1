@@ -71,12 +71,10 @@ Mission automation for rescue and mine-detection scenario
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hasan-aldhubaibi&theme=algolia&no-frame=true&no-bg=true&margin-w=4" />
-</p>
+## GitHub Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hasan-aldhubaibi/hasan-aldhubaibi/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasan-aldhubaibi&theme=github-compact&hide_border=true" />
 </p>
 
 <p align="center">

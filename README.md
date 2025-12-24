@@ -68,9 +68,6 @@ Target detection using computer vision
 Mission automation for rescue and mine-detection scenario
 
 ---
-
-## 📊 GitHub Stats
-
 ## GitHub Activity
 
 <p align="center">
